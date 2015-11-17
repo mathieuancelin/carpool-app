@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/images
+.imdone
+/dist
+/package
+/secret.json
+/firebase.json
