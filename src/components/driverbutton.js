@@ -17,7 +17,7 @@ const images = {
   driver: '/images/driver.png',
   solo: '/images/solo.png'
 };
-const states = ['pooler', 'driver', 'solo'];
+const states = ['pooler', 'solo', 'driver'];
 
 const Styles = {
   name: {
