@@ -8,7 +8,7 @@ import CalendarScreen from './screens/calendarscreen';
 import SettingsScreen from './screens/settingsscreen';
 import LocationScreen from './screens/locationscreen';
 
-require('babel/polyfill');
+require('babel-polyfill');
 require('moment/locale/fr');
 
 navigator.vibrate = navigator.vibrate ||
